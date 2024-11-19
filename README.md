@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fizarafakat&label=Profile%20views&color=0e75b6&style=flat" alt="fizarafakat" /> </p>
 
-- 🌱 I’m currently learning **Typescript and Python**
+- 🌱 I’m currently learning **Nextjs and Python**
 
 - 📫 How to reach me **rafakatali355@gmail.com**
 
