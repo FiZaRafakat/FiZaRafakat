@@ -1,75 +1,57 @@
-<!-- Header with animated typing effect -->
+[![MasterHead](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)](https://github.com/fizarafakat)
+
 <h1 align="center">Hi 👋, I'm Fiza Rafakat</h1>
-<h3 align="center">CA Professional | Frontend Developer | AI Enthusiast</h3>
+<h3 align="center" style="color:#C8A2C8;">✨ Frontend Developer | CA Background | Agentic AI Explorer ✨</h3>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D7AD6&center=true&vCenter=true&width=500&lines=10+CA+Papers+Completed;Frontend+Developer;Next.js+%7C+TypeScript+%7C+Tailwind;Learning+Agentic+AI" alt="Typing SVG" />
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/571e1b07bd12a229e4655e0f584330c56076dd3ad02975293617479c29bb1f0f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343035353439342f73637265656e73686f74732f31353231353735362f6d656469612f64326236366334636130313932616132366431303334343862336431353138622e676966">
+
+---
+
+- 🎓 I’ve cleared **10 papers of CA** (Chartered Accountancy)
+- 👩‍💻 I’m a **Frontend Developer** working with:
+  **TypeScript**, **Next.js**, **Tailwind CSS**, **HTML**, **CSS**, **JavaScript**, **Python**
+- 🤖 Currently learning **Agentic AI** and exploring AI-powered web apps
+- 🌟 Passionate about blending tech with innovation & user-friendly design
+- 📫 Reach me at **rafakatali355@gmail.com**
+- 💡 Fun Fact: *I love turning challenges into creative solutions!*
+
+---
+
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/fizarafakat" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fizarafakat" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/fizarafakat" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fizarafakat" height="30" width="40" />
   </a>
 </p>
 
-<!-- Profile views counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fizarafakat&label=Profile%20views&color=9D7AD6&style=flat" alt="fizarafakat" /> 
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/twitter/follow/yourhandle?logo=twitter&style=flat&color=9D7AD6" alt="yourhandle" /></a>
+---
+
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
 </p>
 
-<!-- Introduction section with lilac accent -->
-<div align="center" style="color: #9D7AD6;">
-  
-  🎓 **Qualified 10 CA Papers** | 💻 **Frontend Developer** | 🤖 **Exploring Agentic AI**
-  
-  🌱 Currently enhancing my skills in **Next.js, TypeScript, and Agentic AI**
-  
-  💡 Passionate about **building elegant, efficient web solutions**
-  
-  📫 Reach me at **rafakatali355@gmail.com**
-  
-  ⚡ Fun fact: **I can balance numbers and code with equal enthusiasm!**
-  
-</div>
+---
 
-<!-- Coding GIF with lilac overlay -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif" width="800" alt="Coding animation" style="border-radius: 10px; border: 2px solid #9D7AD6;">
-</div>
+<h3 align="left">📊 GitHub Stats:</h3>
 
-## 🛠️ Technical Skills
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fizarafakat&show_icons=true&locale=en&layout=compact" alt="fizarafakat" /></p>
 
-<p align="center">
-  <!-- Skill icons with lilac hover effect -->
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,js,html,css,tailwind,python,react,git,github,vscode,figma&theme=light&perline=6" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fizarafakat&show_icons=true&locale=en" alt="fizarafakat" /></p>
 
-## 📊 GitHub Stats
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fizarafakat&" alt="fizarafakat" /></p>
 
-<div align="center">
-  
-  <!-- GitHub stats with lilac theme -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fizarafakat&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=9D7AD6&text_color=333&icon_color=9D7AD6" />
-  
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fizarafakat&layout=compact&hide_border=true&bg_color=ffffff00&title_color=9D7AD6&text_color=333" />
-  
-  <!-- Streak stats -->
-  <img src="https://streak-stats.demolab.com?user=fizarafakat&theme=default&hide_border=true&background=ffffff00&stroke=9D7AD6&ring=9D7AD6&fire=9D7AD6&currStreakNum=333&sideNums=333&currStreakLabel=9D7AD6" alt="GitHub Streak" />
-  
-</div>
+---
 
-## 🌐 Connect With Me
+<img align="center" width="100%" src="https://camo.githubusercontent.com/2b5d39e6cee1e0bbb1315d2ffc758aa65dfb9001df597d452cd8f7df1b2ddb8a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966" alt="End Banner" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/fizarafakat" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-9D7AD6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://facebook.com/fizarafakat" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-9D7AD6?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="mailto:rafakatali355@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-9D7AD6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-<!-- Quote section -->
-<div align="center" style="font-style: italic; color: #9D7AD6; margin-top: 20px;">
-  "Where numbers meet code, creativity flourishes"
-</div>
