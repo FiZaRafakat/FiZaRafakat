@@ -1,5 +1,25 @@
 <!-- Banner -->
-![MasterHead](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)
+<!--![MasterHead](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)
+ Gradient-Themed Intro Message -->
+<div align="center" style="
+  background: linear-gradient(to right, #ede7f6, #e1bee7);
+  padding: 1rem 2rem;
+  border-radius: 12px;
+  border-left: 6px solid #7e57c2;
+  font-family: 'Segoe UI', sans-serif;
+  margin-bottom: 2rem;
+">
+  <p style="
+    font-size: 1.05rem;
+    color: #5e35b1;
+    margin: 0;
+    line-height: 1.6;
+  ">
+    Combining the precision of a <strong>Chartered Accountant</strong> with the creativity of a <strong>Frontend Developer</strong> and the curiosity of an <strong>AI Explorer</strong> — I craft seamless, performance-driven digital experiences using <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>Tailwind</strong>. <br>
+    Whether it's building intuitive UIs or exploring agentic AI, I believe in pushing boundaries with elegance. ✨
+  </p>
+</div>
+
 
 <h1 align="center">Hey there! 👋 I'm Fiza Rafakat</h1>
 <h3 align="center">✨ Frontend Developer | CA (10 Papers Passed) | Learner of Agentic AI ✨</h3>
